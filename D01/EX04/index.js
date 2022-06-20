@@ -11,6 +11,7 @@ function modulo(number1, number2) {
       }
   } else {
     console.log(`The number ${number1} is equal to ${number2}`)
+    console.log("uaeuhefua")
   }
 }
 
